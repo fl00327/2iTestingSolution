@@ -14,7 +14,7 @@ In a language of your choice, using all best practice principles you’re aware 
 
 ### Explanation
 
-In the code, I defined a function removeDuplicatesAndSortDescending that takes an array of numbers as input. We assume that the input array contains 10 numbers ranging between 1 to 100, and that there are 4 duplicates in the array. The function first removes duplicates from the input array using a Set. Then, it sorts the resulting array in descending order using the sort method with a custom comparison function. Finally, the function returns the sorted array.
+In the code, I defined a function removeDuplicatesAndSortDescending that takes an array of numbers as input. We assume that the input array contains 10 numbers ranging between 1 to 100, and that there are duplicates in the array. The function first removes duplicates from the input array using a Set. Then, it sorts the resulting array in descending order using the sort method with a custom comparison function. Finally, the function returns the sorted array.
 
 1. I have also provide an example usage of the function with a sample input array containing 10 numbers with 4 duplicates, and output the resulting sorted array to the console.
 
