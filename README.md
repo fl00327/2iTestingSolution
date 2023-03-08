@@ -1,4 +1,4 @@
-# Solution 2i Coding Challenge
+# Solution 2itesting Coding Challenge
 
 
 ###### The solution for the above problem is completed in JavaScript
